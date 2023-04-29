@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
-import Intro from './components/Intro';
-import Portfolio from './components/Portfolio';
-import Timeline from './components/Timeline';
+import Contact from './Components/Contact';
+import Timeline from './Components/Timeline';
+import Footer from './Components/Footer';
+import Portfolio from './Components/Portfolio';
+import Intro from './Components/Intro';
 
 function App() {
 	const [theme, setTheme] = useState(null);
