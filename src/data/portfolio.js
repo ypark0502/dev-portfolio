@@ -7,7 +7,7 @@ export default [
     },
     {
         title: "Developer Portfolio",
-        imgUrl: '',
+        imgUrl: '/assets/devportfolio.jpg',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'ewanpark.vercel.app'
     },
