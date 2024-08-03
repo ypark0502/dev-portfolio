@@ -4,6 +4,7 @@ import Timeline from './Components/Timeline';
 import Footer from './Components/Footer';
 import Portfolio from './Components/Portfolio';
 import Intro from './Components/Intro';
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
 	const [theme, setTheme] = useState(null);
