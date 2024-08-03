@@ -6,12 +6,6 @@ export default [
         link: 'https://sites.gatech.edu/ewanparktest/'
     },
     {
-        title: "Developer Portfolio",
-        imgUrl: '/assets/devportfolio.jpg',
-        stack: ['React', 'Tailwind', 'Vite'],
-        link: 'https://ewanpark.vercel.app'
-    },
-    {
         title: "AudioT Corporate Website",
         imgUrl: '/assets/audiot.jpg',
         stack: ['React', 'Next.js', 'FaunaDB'],
