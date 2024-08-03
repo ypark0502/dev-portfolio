@@ -4,7 +4,22 @@ import Timeline from './Components/Timeline';
 import Footer from './Components/Footer';
 import Portfolio from './Components/Portfolio';
 import Intro from './Components/Intro';
-import { Analytics } from "@vercel/analytics/react";
+import { Analytics } from '@vercel/analytics/react';
+ 
+export default function RootLayout({ children }) {
+  return (
+    <html lang="en">
+      <head>
+        <title>Next.js</title>
+      </head>
+      <body>
+        {children}
+        <Analytics />
+      </body>
+    </html>
+  );
+}
+
 
 function App() {
 	const [theme, setTheme] = useState(null);
