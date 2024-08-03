@@ -1,15 +1,21 @@
 export default [
     {
-        title: "AudioT Corporate Website",
-        imgUrl: '/assets/audiot.jpg',
-        stack: ['React', 'Next.js', 'FaunaDB'],
-        link: 'https://audiot.vercel.app'
+        title: "GT PACE Wordpress Project",
+        imgUrl: '/assets/gtpace.png',
+        stack: ['Wordpress', 'HTML', 'CSS'],
+        link: 'https://sites.gatech.edu/ewanparktest/'
     },
     {
         title: "Developer Portfolio",
         imgUrl: '/assets/devportfolio.jpg',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://ewanpark.vercel.app'
+    },
+    {
+        title: "AudioT Corporate Website",
+        imgUrl: '/assets/audiot.jpg',
+        stack: ['React', 'Next.js', 'FaunaDB'],
+        link: 'https://audiot.vercel.app'
     },
     {
         title: "GTLI Website",
