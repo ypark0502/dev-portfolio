@@ -1,5 +1,17 @@
 export default [
     {
+        title: "Bike Share Analysis",
+        imgUrl: '/assets/bikedashboardscreenshot.png',
+        stack: ['Power BI', 'SQL', 'Excel'],
+        link: 'https://github.com/ypark0502/BikeDAReport'
+    },
+    {
+        title: "HR Data Analysis",
+        imgUrl: '/assets/dashboardscreenshot.png',
+        stack: ['Power BI', 'SQL'],
+        link: 'https://github.com/ypark0502/HRDAreport'
+    },
+    {
         title: "GT PACE Wordpress Project",
         imgUrl: '/assets/gtpace.png',
         stack: ['Wordpress', 'HTML', 'CSS'],
