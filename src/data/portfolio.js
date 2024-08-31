@@ -12,6 +12,12 @@ export default [
         link: 'https://github.com/ypark0502/HRDAreport'
     },
     {
+        title: "Coffee Sales Analysis",
+        imgUrl: '/assets/exceldashboard.png',
+        stack: ['Excel'],
+        link: 'https://github.com/ypark0502/CoffeeExcelAnalysis'
+    },
+    {
         title: "GT PACE Wordpress Project",
         imgUrl: '/assets/gtpace.png',
         stack: ['Wordpress', 'HTML', 'CSS'],
